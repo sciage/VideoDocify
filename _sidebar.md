@@ -8,9 +8,12 @@
   * [Cloud](./tutorials/cloud/index)
   * [Java](./tutorials/java/index)
   
-* [Video](./video/activity/index)
-  * [Views](./video/views/AlivcBottomView)
-  * [Cloud](./tutorials/cloud/index)
+* [Video](./video/index)
+  * [Activity](./video/activity/index)
+      * [VideoListActivity](./video/activity/VideoListActivity)
+  * [Views](./video/views/index)
+      * [AlivcBottomView](./video/views/AlivcBottomView)
+      * [MenuDialog](./video/views/MenuDialog)
   * [Java](./tutorials/java/index)
 
 * [About](./about/index)
