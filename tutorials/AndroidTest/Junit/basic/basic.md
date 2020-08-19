@@ -14,7 +14,7 @@
  assertEquals("water", recipe.id);
 ```
 * `assertNotNull` is used to check not Null;
-```
+```java
  RecipeStore store = new RecipeStore(context, null);
  assertNotNull(store);
 ```
